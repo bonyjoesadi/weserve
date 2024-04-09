@@ -1,4 +1,4 @@
 [build]
   base = "src"
   publish = "src"
-  command = "npm run build" # Gantilah dengan perintah build Anda jika perlu
+  command = "npm run build" 
